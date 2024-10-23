@@ -43,6 +43,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/taylorpiber/taylorpiber/output/snake.svg" alt="Snake animation" />
-
 ###
